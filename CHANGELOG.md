@@ -2,6 +2,40 @@
 
 ## [Não publicado]
 
+## [0.14.8] / 2024-01-15
+
+### Segurança
+
+- Atualizado as dependências npm
+
+## [0.14.7] / 2023-10-30
+
+### Segurança
+
+- Atualizado as dependências npm
+
+## [0.14.6] / 2023-09-19
+
+### Segurança
+
+- Atualizado as dependências npm
+
+## [0.14.5] / 2023-07-28
+
+### Corrigido
+
+- Arquivo `.pfx` com lista de certificados invertida
+
+## [0.14.4] / 2023-07-19
+
+### Modificado
+
+- Atualizado README.md
+
+### Segurança
+
+- Atualizado as dependências npm
+
 ## [0.14.3] / 2023-06-08
 
 ### Segurança
@@ -265,7 +299,12 @@
   - 210220 - Desconhecimento da Operação
   - 210240 - Operação não Realizada
 
-[não publicado]: https://github.com/lucashpmelo/node-mde/compare/0.14.3..HEAD
+[não publicado]: https://github.com/lucashpmelo/node-mde/compare/0.14.8..HEAD
+[0.14.8]: https://github.com/lucashpmelo/node-mde/compare/0.14.7...0.14.8
+[0.14.7]: https://github.com/lucashpmelo/node-mde/compare/0.14.6...0.14.7
+[0.14.6]: https://github.com/lucashpmelo/node-mde/compare/0.14.5...0.14.6
+[0.14.5]: https://github.com/lucashpmelo/node-mde/compare/0.14.4...0.14.5
+[0.14.4]: https://github.com/lucashpmelo/node-mde/compare/0.14.3...0.14.4
 [0.14.3]: https://github.com/lucashpmelo/node-mde/compare/0.14.2...0.14.3
 [0.14.2]: https://github.com/lucashpmelo/node-mde/compare/0.14.1...0.14.2
 [0.14.1]: https://github.com/lucashpmelo/node-mde/compare/0.14.0...0.14.1
